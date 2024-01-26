@@ -1,6 +1,6 @@
-name: "FTP Deploy"
+name: "FTP Deploy 2"
 description: "Automate deploying websites and more with this GitHub action via FTP and FTPS"
-author: "Sam Kirkland"
+author: "Sam Kirkland forked by maverage"
 inputs:
   server:
     required: true
